@@ -1,1 +1,1 @@
-# Fill HTML Table with JOSN array
+# Fill HTML Table with JSON array
